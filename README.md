@@ -17,17 +17,13 @@ Contact
 
 I have attached some images I am selling, and some mockups of prints.
 
-![Alt text](http://full/path/to/img.jpg "Optional title")Celebrate your Curves - Dark Bedroom.jpg
-Heather-Smith-black-high-res.png
-Heather-Smith-white-high-res (1).png
-Heather-Smith-white-high-res.png
-IMG_0222-SharpenAI-focus.jpg
-IMG_3457 and 0014 Mockup (1).jpg
-IMG_3457 and 0014 Mockup.jpg
-IMG_3547a.JPG
-Osteospermum Double in Loungeroom.jpg
-Pink Square Ranunculus - White Lounge Mockup - No Mat.png
-
-```
-![Alt text](http://full/path/to/img.jpg "Optional title")
-```
+![](Celebrate your Curves - Dark Bedroom.jpg)
+![img](Heather-Smith-black-high-res.png)
+![](Heather-Smith-white-high-res (1).png)
+![img](Heather-Smith-white-high-res.png)
+![img](IMG_0222-SharpenAI-focus.jpg)
+![](IMG_3457 and 0014 Mockup (1).jpg)
+![](IMG_3457 and 0014 Mockup.jpg)
+![img](IMG_3547a.JPG)
+![](Osteospermum Double in Loungeroom.jpg)
+![](Pink Square Ranunculus - White Lounge Mockup - No Mat.png)
